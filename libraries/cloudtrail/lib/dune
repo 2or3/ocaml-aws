@@ -1,7 +1,0 @@
-(library
- (name aws_cloudtrail)
- (public_name aws-cloudtrail)
- (synopsis "aws-AWS CloudTrail")
- (flags
-  (:standard -w -27))
- (libraries aws))
